@@ -6,3 +6,4 @@ https://github.com/torvalds
 git -h
 
 new_info
+third text
