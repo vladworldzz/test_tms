@@ -7,3 +7,6 @@ git -h
 
 new_info
 third text
+
+
+some new info
