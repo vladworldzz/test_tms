@@ -1,0 +1,6 @@
+https://git-scm.com/book/ru/v2
+
+https://github.com/git/git
+https://github.com/torvalds
+
+git -h
