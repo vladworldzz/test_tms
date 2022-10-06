@@ -4,3 +4,5 @@ https://github.com/git/git
 https://github.com/torvalds
 
 git -h
+
+new_info
